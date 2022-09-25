@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **PostgreSQL**
 
-- 👨‍💻 All of my projects are available at [https://calebphillips.dev/](https://calebphillips.dev/)
+- 👨‍💻 All of my projects are available on my [website](https://calebphillips.dev/)
 
 - 📫 How to reach me **caleb@calebphillips.dev**
 
-- 📄 Know about my experiences [https://calslips.github.io/resume/](https://calslips.github.io/resume/)
+- 📄 View my experience on my [resume](https://calslips.github.io/resume/)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
