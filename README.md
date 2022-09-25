@@ -7,8 +7,6 @@
 
 - 👨‍💻 All of my projects are available at [https://calebphillips.dev/](https://calebphillips.dev/)
 
-- 💬 Ask me about **MERN**
-
 - 📫 How to reach me **caleb@calebphillips.dev**
 
 - 📄 Know about my experiences [https://calslips.github.io/resume/](https://calslips.github.io/resume/)
