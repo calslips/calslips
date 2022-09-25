@@ -27,7 +27,7 @@
       <h4 align="center">RxMate</h4>
         <br />
         <a target="_blank" href="https://rxmate.herokuapp.com/">
-            <img src="images/rxMate" width="100%" alt="Rx Mate web application login page."/>
+            <img src="images/rxMate.jpg" width="100%" alt="Rx Mate web application login page."/>
         </a>
         <br />
         <p><strong>TypeScript, MongoDB, Express, React, Node, Tailwind CSS</strong> - A Full Stack web application that helps users track their medications and set up reminders!</p>
@@ -36,7 +36,7 @@
       <h4 align="center">FlickList</h4>
         <br />
       <a target="_blank" href="https://flicklistit.herokuapp.com/">
-            <img src="images/flickList" width="100%"  alt="Flick List web application login page."/>
+            <img src="images/flickList.jpg" width="100%"  alt="Flick List web application login page."/>
         </a>
         <br />
         <p><strong>Javascript, MongoDB, Express, Node, Bootstrap, EJS</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
@@ -48,7 +48,7 @@
       <h4 align="center">Flair Salon</h4>
       <br />
         <a target="_blank" href="https://flair-salon.netlify.app/">
-          <img src="images/flairSalon" width="100%" alt="Flair Salon landing page."/>
+          <img src="images/flairSalon.jpg" width="100%" alt="Flair Salon landing page."/>
         </a>
       <br />
         <p><strong>HTML5, CSS3, SASS, JavaScript</strong> - Web site design and development for a hair salon and spa.</p>
@@ -57,7 +57,7 @@
       <h4 align="center">Subtle Tea</h4>
         <br />
         <a target="_blank" href="https://subtletea.netlify.app/">
-          <img src="images/subtleTea" width="100%" alt="Subtle Tea landing page."/>
+          <img src="images/subtleTea.jpg" width="100%" alt="Subtle Tea landing page."/>
         </a>
         <br />
         <p><strong>HTML5, CSS3, Pug, Bootstrap, JavaScript</strong> - Web site design and development for a specialized tea shop.</p>
