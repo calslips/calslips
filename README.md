@@ -37,7 +37,7 @@
             <img src="images/flickList.jpg" width="100%"  alt="Flick List web application login page."/>
         </a>
         <br />
-        <p><strong>Javascript, MongoDB, Express, Node, Bootstrap, EJS</strong> - The awaited sequel sees our Rigley friend jumping through firewalls "Flappy Bird" style.</p>
+        <p><strong>Javascript, MongoDB, Express, Node, Bootstrap, EJS</strong> - A Full Stack, open-source movie recommendation web application used for keeping track of movies you intend to watch!</p>
     </td>
   </tr>
   
