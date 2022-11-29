@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caleb</h1>
 <h3 align="center">A full stack software engineer with a passion for web development.</h3>
 
-- 🔭 I’m currently working on [RxMate](https://rxmate.herokuapp.com/)
+- 🔭 I’m currently working on [RxMate](https://rxmate.cyclic.app/)
 
 - 🌱 I’m currently learning **PostgreSQL**
 
@@ -24,7 +24,7 @@
     <td width="50%" valign="top">
       <h4 align="center">RxMate</h4>
         <br />
-        <a target="_blank" href="https://rxmate.herokuapp.com/">
+        <a target="_blank" href="https://rxmate.cyclic.app/">
             <img src="images/rxMate.jpg" width="100%" alt="Rx Mate web application login page."/>
         </a>
         <br />
@@ -33,7 +33,7 @@
     <td width="50%" valign="top">
       <h4 align="center">FlickList</h4>
         <br />
-      <a target="_blank" href="https://flicklistit.herokuapp.com/">
+      <a target="_blank" href="https://flicklistit.cyclic.app/">
             <img src="images/flickList.jpg" width="100%"  alt="Flick List web application login page."/>
         </a>
         <br />
